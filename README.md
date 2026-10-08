@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jayson 👋
 
-<!--
-**jaysonlim/jaysonlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer from the Philippines building WordPress sites for small businesses, and automating their workflows with n8n.
 
-Here are some ideas to get you started:
+## 🛠 What I work with
+- WordPress
+- n8n automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certifications
+- **n8n Academy: Essentials — Your First Workflows** (Oct 2026) · [View certificate](n8n-essentials-certificate.pdf)
+
+## 📂 Featured projects
+- [n8n-lead-capture-nurture](https://github.com/jaysonlim/n8n-lead-capture-nurture) — automated lead capture & follow-up workflow
+- [n8n-ai-lead-capture](https://github.com/jaysonlim/n8n-ai-lead-capture)
